@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Experience on Benjamin Smith</title>
+    <link>https://basmith.tech/portfolio/</link>
+    <description>Recent content in Work Experience on Benjamin Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Benjamin Smith</copyright>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://basmith.tech/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Computer Hardware &amp; Software Repair</title>
+      <link>https://basmith.tech/portfolio/computer-hardware--software-repair/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://basmith.tech/portfolio/computer-hardware--software-repair/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://basmith.tech/portfolio/computer-hardware--software-repair/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Enterprise IT Support</title>
+      <link>https://basmith.tech/portfolio/enterprise-it-support/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://basmith.tech/portfolio/enterprise-it-support/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://basmith.tech/portfolio/enterprise-it-support/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Systems Administration</title>
+      <link>https://basmith.tech/portfolio/system-administration/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://basmith.tech/portfolio/system-administration/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://basmith.tech/portfolio/system-administration/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
